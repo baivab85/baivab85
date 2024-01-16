@@ -23,6 +23,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baivab85&show_icons=true&locale=en&layout=compact" alt="baivab85" /></p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=baivab85&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
 
 
