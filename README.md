@@ -42,7 +42,7 @@
 | :---:        |    :----   |  
 | [Competition List](https://www.ambitionbox.com/list-of-companies) | List of competitions for college students to participate and to enhance their skills. |
 | [Free courses with certificate](https://www.classcentral.com/report/udemy-free-courses/) | This repository contains list of free courses with certificates. Go ahead and add more courses in your knowledge. |
-| [Doctor's Clinic]()    | This is a javascript TO-Do-List app , you can contribute to this project by adding some extra feature or by improving UI/UX.      
+| [Doctor's Clinic](https://github.com/baivab85/Doctor_Clinic)    | This is a javascript TO-Do-List app , you can contribute to this project by adding some extra feature or by improving UI/UX.      
 | [Music Recommendation ](https://github.com/baivab85/Music-Recommendation-System)      | This repository contains collection of portfolio's . You can add your own repository.
 
 
@@ -54,9 +54,9 @@
 </div>
 <div  align="center">
  
-<a href="https://avinash201199.github.io/Avinash-Singh/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=Avinash-Singh&show_icons=true&theme=great-gatsby" ></a>
-<a href="https://avinash201199.github.io/weather-app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=weather-app&show_icons=true&theme=great-gatsby" ></a>
-<a href="https://avinash201199.github.io/To-Do-List/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=To-Do-List&show_icons=true&theme=great-gatsby"></a>
+<a href="https://github.com/baivab85/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=baivab85&repo=Baivab Mukherjee&show_icons=true&theme=great-gatsby" ></a>
+<a href="https://github.com/baivab85/Gesture-Volume-Control/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=baivab85&repo=Gesture-Volume-Control&show_icons=true&theme=great-gatsby" ></a>
+<a href="https://github.com/baivab85/Doctor_Clinic/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=baivab85&repo=Doctor_Clinic&show_icons=true&theme=great-gatsby"></a>
 <a href="https://meme-generator-three-psi.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=MemeGenerator&show_icons=true&theme=great-gatsby"></a>
 
 </div>
