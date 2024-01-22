@@ -10,7 +10,7 @@
 
 -----
 
-![profile count](https://komarev.com/ghpvc/?username=avinash201199&color=red)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=baivab85&label=Profile%20views&color=0e75b6&style=flat)&nbsp;
 [![GitHub avinash201199](https://img.shields.io/github/followers/avinash201199?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
 ### 👨🏻💻 &nbsp;About Me
 
