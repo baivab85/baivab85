@@ -40,10 +40,10 @@
 
 | Repository Name      | Description | 
 | :---:        |    :----   |  
-| [Competition List](https://www.ambitionbox.com/list-of-companies) | List of competitions for college students to participate and to enhance their skills. |
-| [Free courses with certificate](https://www.classcentral.com/report/udemy-free-courses/) | This repository contains list of free courses with certificates. Go ahead and add more courses in your knowledge. |
-| [Doctor's Clinic](https://github.com/baivab85/Doctor_Clinic)    | This is a javascript TO-Do-List app , you can contribute to this project by adding some extra feature or by improving UI/UX.      
-| [Music Recommendation ](https://github.com/baivab85/Music-Recommendation-System)      | This repository contains collection of portfolio's . You can add your own repository.
+| [Company's job List](https://www.ambitionbox.com/list-of-companies) | List of competitions for college students to participate and to enhance their skills. |
+| [Free courses with certificate](https://www.classcentral.com/report/udemy-free-courses/) | This website contains list of free courses with certificates. Go ahead and add more courses in your knowledge. |
+| [Doctor's Clinic](https://github.com/baivab85/Doctor_Clinic)    | This is a online doctor's clinic ,you can contribute to this project by adding some extra feature or by improving UI/UX.      
+| [Music Recommendation ](https://github.com/baivab85/Music-Recommendation-System)      | This repository contains music recommendation system. You can add your own repository.
 
 
 
