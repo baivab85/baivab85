@@ -88,7 +88,10 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+   <code><img width="15%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
+   <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></code>
+
 
  -----
   
