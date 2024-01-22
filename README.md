@@ -11,7 +11,7 @@
 -----
 
 ![profile count](https://komarev.com/ghpvc/?username=baivab85&label=Profile%20views&color=0e75b6&style=flat)&nbsp;
-[![GitHub avinash201199](https://img.shields.io/github/followers/avinash201199?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
+[![GitHub baivab85](https://img.shields.io/github/followers/baivab85?label=follow&style=social)](https://github.com/baivab85)&nbsp;
 ### 👨🏻💻 &nbsp;About Me
 
 💡 &nbsp; Hello everyone,I'm 2024 pass out graduate with BCA. I enjoy collaborating with people on works of similar interest.
