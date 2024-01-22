@@ -57,7 +57,7 @@
 <a href="https://github.com/baivab85/Face-Recognition-Attendance-Project/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=baivab85&repo=Face-Recognition-Attendance-Project&show_icons=true&theme=great-gatsby" ></a>
 <a href="https://github.com/baivab85/Gesture-Volume-Control/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=baivab85&repo=Gesture-Volume-Control&show_icons=true&theme=great-gatsby" ></a>
 <a href="https://github.com/baivab85/Doctor_Clinic/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=baivab85&repo=Doctor_Clinic&show_icons=true&theme=great-gatsby"></a>
-<a href="https://github.com/baivab85/Movie_Genre_Classification/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=baivab85&repo=Movie_Genre_Classification&show_icons=true&theme=great-gatsby"></a>
+<a href="https://github.com/baivab85/Movie_Genre_Classification/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=baivab85&repo=Gesture-Volume-Control&show_icons=true&theme=great-gatsby"></a>
 
 </div>
 
