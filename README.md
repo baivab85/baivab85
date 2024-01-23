@@ -36,7 +36,7 @@
 -----  
 
 
-<h1 align="center">Repositories to contribute in Hacktoberfest🤩</h1>
+<h1 align="center">Special Links for freshers CS Students</h1>
 
 | Repository Name      | Description | 
 | :---:        |    :----   |  
