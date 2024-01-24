@@ -115,3 +115,12 @@
 
 
 
+<br/>
+<br/>
+
+<img align='right' src="https://media2.giphy.com/media/7DPisN3JAKJhEyDHIW/giphy.gif" width="200" height="200"></img>
+<br/>
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thanks for visiting my profile <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Heart%20Exclamation.png" alt='' width='38' height='38' />
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please <img src="https://media2.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt='' width='35' height='35' /> Some Repos &nbsp; <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Medium-Light%20Skin%20Tone.png" alt='' width='36' height='36' /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Medium-Light%20Skin%20Tone.png" alt='' width='36' height='36' />
+
+<p align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
