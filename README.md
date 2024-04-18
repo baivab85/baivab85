@@ -98,7 +98,7 @@
 </p>
 
 
-<a href="https://app.daily.dev/baivab85"><img src="https://api.daily.dev/devcards/v2/m4YozvET2yDnLa2GLohWC.png?type=wide&r=sdw" width="852" alt="Baivab Mukherjee's Dev Card"/></a>
+<a href="https://app.daily.dev/baivab85"><img src="https://api.daily.dev/devcards/v2/m4YozvET2yDnLa2GLohWC.png?type=wide&r=sdw" width="952" alt="Baivab Mukherjee's Dev Card"/></a>
 
 <h1 align="center">Github Stats</h1>
 
