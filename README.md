@@ -14,7 +14,7 @@
 [![GitHub baivab85](https://img.shields.io/github/followers/baivab85?label=follow&style=social)](https://github.com/baivab85)&nbsp;
 ### 👨🏻💻 &nbsp;About Me
 
-💡 &nbsp; Hello everyone,I'm 2024 pass out graduate with BCA. I enjoy collaborating with people on works of similar interest.
+💡 &nbsp; Hello everyone,I'm 2024 pass out graduate from MIT. I enjoy collaborating with people on works of similar interest.
 
 🌱 &nbsp;I'm on track to help tech minds by sharing my expertise , resources and guidance.\
 ✍️ &nbsp;Apart from technical interests, I like dancing,watching movies, reading novels, playing Chess and badminton.\
