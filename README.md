@@ -107,7 +107,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=baivab85)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=baivab85&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=baivab85&theme=radical&no-frame=false&no-bg=true&margin-w=0)
 
  </div>
  
