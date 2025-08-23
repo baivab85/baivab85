@@ -96,7 +96,7 @@
  -----
   
 </p>
-# My Badge Board
+<h1 align="center">My Badges</h1>
 
 [![@baivab85's Holopin board](https://holopin.me/baivab85)](https://www.holopin.io/@baivab85#badges)
 
