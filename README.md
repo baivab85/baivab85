@@ -98,7 +98,7 @@
 </p>
 # My Badge Board
 
-[![@souvik223's Holopin board](https://holopin.me/souvik223)](https://www.holopin.io/@baivab85#badges)
+[![@baivab85's Holopin board](https://holopin.me/baivab85)](https://www.holopin.io/@baivab85#badges)
 
 # 📊Contribution Stats:
 ![](https://github-readme-stats.vercel.app/api?username=baivab85&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
