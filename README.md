@@ -100,10 +100,7 @@
 
 [![@baivab85's Holopin board](https://holopin.me/baivab85)](https://www.holopin.io/@baivab85#badges)
 
-# 📊Contribution Stats:
-![](https://github-readme-stats.vercel.app/api?username=baivab85&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=baivab85&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&langs_count=8&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=baivab85&theme=neon&hide_border=false)
+
 
 
 
