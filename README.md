@@ -36,7 +36,7 @@
 -----  
 
 
-<h1 align="center">Special Links for freshers CS Students</h1>
+<!-- <h1 align="center">Special Links for freshers CS Students</h1>
 
 | Repository Name      | Description | 
 | :---:        |    :----   |  
@@ -44,14 +44,14 @@
 | [Interview Preparation](https://github.com/baivab85/Interview) | This repo contains list of free sources and tech interview preparation. Go ahead and add more courses in your knowledge. |
 | [Doctor's Clinic](https://github.com/baivab85/Doctor_Clinic)    | This is a online doctor's clinic ,you can contribute to this project by adding some extra feature or by improving UI/UX.      
 | [Music Recommendation ](https://github.com/baivab85/Music-Recommendation-System)      | This repository contains music recommendation system. You can add your own repository.
+ -->
 
 
 
 
+ <h1 align="center">Projects</h1> 
 
-<h1 align="center">Projects</h1>
-
-</div>
+ </div>
 <div  align="center">
  
 <a href="https://github.com/baivab85/Face-Recognition-Attendance-Project/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=baivab85&repo=Face-Recognition-Attendance-Project&show_icons=true&theme=great-gatsby" ></a>
@@ -59,43 +59,10 @@
 <a href="https://github.com/baivab85/Doctor_Clinic/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=baivab85&repo=Doctor_Clinic&show_icons=true&theme=great-gatsby"></a>
 <a href="https://github.com/baivab85/Iris-Flower-Classification/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=baivab85&repo=Iris-Flower-Classification&show_icons=true&theme=great-gatsby"></a>
 
-</div>
+</div> 
 
 
 
-### Languages and Tools
-
-<p>
- 
- 
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/quora/quora-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-   <code><img width="15%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
-   <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></code>
-
-
- -----
-  
-</p>
 <h1 align="center">My Badges</h1>
 
 [![@baivab85's Holopin board](https://holopin.me/baivab85)](https://www.holopin.io/@baivab85#badges)
